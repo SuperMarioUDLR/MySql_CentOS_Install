@@ -2,8 +2,10 @@
 
 #### MySql_CentOS_Install是一个在CentOS系统上快速安装Mysql 8.x的脚本
 
+
 ### 使用环境 CentOS 7.5 
 ####（如果其他版本有异常请提交issue）
+
 
 
 ### 使用方式 
